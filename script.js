@@ -479,7 +479,7 @@ const LETTER_SECTIONS = [
   },
   {
     id: 'letter-closing-el',
-    text: "Happy birthday,my dear poet. 🫶🏻🎂❤️"
+    text: "Happy birthday, Miss. Poet. 🫶🏻🎂❤️"
   }
 ];
 
